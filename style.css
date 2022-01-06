@@ -1,0 +1,111 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.home{
+    
+    color: khaki;
+    background-color: lightskyblue;
+    text-align: center;
+    
+}
+.stay-focus{
+    display: flex;
+    margin-bottom: 100px;
+}
+.vl{
+    height: 120px;
+    margin-top: 20px;
+    margin-right: 20px;
+    border-left: 6px solid red;
+}
+.create{
+   color: rosybrown;
+    border-color: pink;
+    text-align: center;
+    font-style: italic;
+    font-weight: 100;
+}
+.main{
+    display: flex;
+    margin: 2%;
+    padding: 100px;
+    
+}
+
+
+.half-width{
+    width: 50%;
+    margin-left: 40px;
+}
+.image{
+    height: 400px;
+    width: 400px;
+
+}
+.red{
+    color: darksalmon;
+}
+.image{
+    height: 400px;
+    width: 400px;
+}
+.orange{
+    color: red;
+    
+  
+}
+
+.explo{
+    background-color: red;
+    padding: 7px;
+    border-radius: 7px;
+    color: white;
+    font-weight: 800;
+}
+.pic{
+    display: flex;
+    height: 10%;
+    width: 10%x;
+    margin-left: 10px;
+   
+    padding: 20px;
+    border-radius: 20px;
+
+}
+.text{
+    text-align: center;
+}
+.margin{
+    margin-right: 50%;
+    
+}
+.foot{
+    background-color: black;
+    color: white;
+}
+.center{
+    text-align: center;
+}
+.illustrator{
+    height: 250px;
+    width: 250px;
+}
+#oma{
+    color: #FF0000;
+}
+.mission{
+    margin:25px;
+    padding: 5px;
+    border-radius: 40px;
+}
+#mission-1{
+    background-color: #edf5f6;
+
+}
+#mission-2{
+    background-color: #ffeeee;
+}
+#mission-3{
+    background-color:#fff4d6;
+}
